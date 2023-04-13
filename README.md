@@ -1,3 +1,7 @@
+# Water.css README
+
+```html
+
 <p align="center">
   <a href="https://www.npmjs.com/package/water.css"><img align="center" src="https://img.shields.io/npm/v/water.css.svg" alt="NPM page"></a>
   <a href="https://www.producthunt.com/posts/water-css"><img align="center" src="https://img.shields.io/badge/on-product%20hunt-blue.svg" alt="On Product Hunt"></a>
@@ -13,6 +17,8 @@
 [![Water.css](assets/logo.svg)](https://watercss.kognise.dev/)
 
 <br>
+
+```
 
 ## Goals
 
@@ -150,3 +156,8 @@ Water.css becomes better for everyone when people like you help make it better!
 
 Check out our [Contributing Guide](.github/CONTRIBUTING.md) to learn how to get started.  
 And thanks for taking the time to contribute! :)
+
+
+## Changes
+
+* We changed the color of the dark mode to a dark blue, as an exercise attempt to make a contribution to open source projects.
